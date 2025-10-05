@@ -24,6 +24,17 @@ The design focuses on clean UI, professional look, and responsiveness across dev
 - **Icons:** React Icons  
 
 ---
+## Design Choices
+
+- Used Tailwind CSS for rapid, clean, and responsive design.
+
+- Hero section uses flexbox with mobile-first responsiveness.
+
+- Navbar and mobile menu use React state for toggling visibility.
+
+- Focused on UI/UX and responsiveness, keeping code clean and modular with React components.
+  
+---
 
 ## ⚡ Setup Instructions
 
@@ -38,3 +49,4 @@ git clone https://github.com/mayanksrivastav04/IELTS-Homepage.git
 
 ```bash
 git clone https://github.com/mayanksrivastav04/IELTS-Homepage.git
+
